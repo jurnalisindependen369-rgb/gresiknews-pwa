@@ -1,1 +1,9 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "id.gresiknews.www.twa",
+        "sha256_cert_fingerprints": ["D3:FF:CE:6F:4F:4D:1A:0E:B3:81:3C:D3:AE:73:83:0A:57:91:32:70:F6:B2:07:74:56:44:0C:2F:59:0D:63:18"]
+      }
+    }]
 
