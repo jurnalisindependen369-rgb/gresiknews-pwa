@@ -12,14 +12,20 @@
   "categories": ["news", "local"],
   "icons": [
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_v02rHDBQVTdGLXaa2zZcFt1nAY3AWU4X8yhZSstFHzAFDoKQcbBfmSNbhv9XSTNUmNXvNEhg4xJxlYgieEazI2I9hskr3i1trZTnCeZSWYSy573Xrs3HAh5ePpOunQvmDmszZXghOzjBebMoCdAHUbGah1ijx2ArSJ2kDSUwqj9KgAb8QIWl1Yteb5KH/s192/gnews%20(2).png",
-      "sizes": "192x192",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_v02rHDBQVTdGLXaa2zZcFt1nAY3AWU4X8yhZSstFHzAFDoKQcbBfmSNbhv9XSTNUmNXvNEhg4xJxlYgieEazI2I9hskr3i1trZTnCeZSWYSy573Xrs3HAh5ePpOunQvmDmszZXghOzjBebMoCdAHUbGah1ijx2ArSJ2kDSUwqj9KgAb8QIWl1Yteb5KH/s200/gnews%20(2).png",
+      "sizes": "200x200",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     },
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_v02rHDBQVTdGLXaa2zZcFt1nAY3AWU4X8yhZSstFHzAFDoKQcbBfmSNbhv9XSTNUmNXvNEhg4xJxlYgieEazI2I9hskr3i1trZTnCeZSWYSy573Xrs3HAh5ePpOunQvmDmszZXghOzjBebMoCdAHUbGah1ijx2ArSJ2kDSUwqj9KgAb8QIWl1Yteb5KH/s512/gnews%20(2).png",
-      "sizes": "512x512",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_v02rHDBQVTdGLXaa2zZcFt1nAY3AWU4X8yhZSstFHzAFDoKQcbBfmSNbhv9XSTNUmNXvNEhg4xJxlYgieEazI2I9hskr3i1trZTnCeZSWYSy573Xrs3HAh5ePpOunQvmDmszZXghOzjBebMoCdAHUbGah1ijx2ArSJ2kDSUwqj9KgAb8QIWl1Yteb5KH/s400/gnews%20(2).png",
+      "sizes": "400x400",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_v02rHDBQVTdGLXaa2zZcFt1nAY3AWU4X8yhZSstFHzAFDoKQcbBfmSNbhv9XSTNUmNXvNEhg4xJxlYgieEazI2I9hskr3i1trZTnCeZSWYSy573Xrs3HAh5ePpOunQvmDmszZXghOzjBebMoCdAHUbGah1ijx2ArSJ2kDSUwqj9KgAb8QIWl1Yteb5KH/s800/gnews%20(2).png",
+      "sizes": "800x800",
       "type": "image/png",
       "purpose": "any maskable"
     }
