@@ -1,0 +1,27 @@
+{
+  "name": "GresikNews",
+  "short_name": "GresikNews",
+  "description": "Gresik dalam Flash News",
+  "start_url": "https://www.gresiknews.id/",
+  "scope": "https://www.gresiknews.id/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0d1f3c",
+  "orientation": "portrait",
+  "lang": "id",
+  "categories": ["news", "local"],
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_v02rHDBQVTdGLXaa2zZcFt1nAY3AWU4X8yhZSstFHzAFDoKQcbBfmSNbhv9XSTNUmNXvNEhg4xJxlYgieEazI2I9hskr3i1trZTnCeZSWYSy573Xrs3HAh5ePpOunQvmDmszZXghOzjBebMoCdAHUbGah1ijx2ArSJ2kDSUwqj9KgAb8QIWl1Yteb5KH/s192/gnews%20(2).png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_v02rHDBQVTdGLXaa2zZcFt1nAY3AWU4X8yhZSstFHzAFDoKQcbBfmSNbhv9XSTNUmNXvNEhg4xJxlYgieEazI2I9hskr3i1trZTnCeZSWYSy573Xrs3HAh5ePpOunQvmDmszZXghOzjBebMoCdAHUbGah1ijx2ArSJ2kDSUwqj9KgAb8QIWl1Yteb5KH/s512/gnews%20(2).png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

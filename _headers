@@ -1,0 +1,7 @@
+/*
+  Access-Control-Allow-Origin: *
+  Content-Type: application/json
+
+/sw.js
+  Content-Type: application/javascript
+  Service-Worker-Allowed: /
