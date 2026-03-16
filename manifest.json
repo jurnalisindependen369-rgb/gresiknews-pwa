@@ -1,15 +1,24 @@
 {
   "name": "GresikNews",
   "short_name": "GresikNews",
-  "description": "Gresik dalam Flash News",
-  "start_url": "https://www.gresiknews.id/",
+  "description": "Gresik dalam Flash News - Portal berita lokal Gresik terpercaya",
+  "start_url": "https://www.gresiknews.id/?source=pwa",
   "scope": "https://www.gresiknews.id/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#0d1f3c",
   "orientation": "portrait",
   "lang": "id",
+  "dir": "ltr",
   "categories": ["news", "local"],
+  "screenshots": [
+    {
+      "src": "https://jurnalisindependen369-rgb.github.io/gresiknews-pwa/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ],
   "icons": [
     {
       "src": "https://jurnalisindependen369-rgb.github.io/gresiknews-pwa/icon-192.png",
@@ -22,6 +31,19 @@
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Berita Terbaru",
+      "short_name": "Terbaru",
+      "url": "https://www.gresiknews.id/?source=pwa-shortcut",
+      "icons": [
+        {
+          "src": "https://jurnalisindependen369-rgb.github.io/gresiknews-pwa/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
     }
   ]
 }
